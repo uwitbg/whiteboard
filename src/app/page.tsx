@@ -15,8 +15,8 @@ export default function Home() {
             </span>
           </h1>
           <h2 className="text-lg sm:text-xl font-changa text-center">
-            It's free and will always be! You can wirte or draw with ease - no
-            sign-up, no install. Just open and start creating
+            It&apos;s free and will always be! You can wirte or draw with ease -
+            no sign-up, no install. Just open and start creating
           </h2>
           <div className="flex gap-4 items-center flex-col sm:flex-row mt-4">
             <Link
