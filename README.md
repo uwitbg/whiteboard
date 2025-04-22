@@ -35,14 +35,16 @@ git clone https://github.com/your-username/black-board.git
 cd black-board
 npm install
 npm run dev
+```
 
 ---
 
 ## 📦 Project Structure
+
 /app
-  /drawing
-    components/
-      DrawingBoard.tsx
+/drawing
+components/
+DrawingBoard.tsx
 
 ## 🧱 Built With
 
@@ -64,17 +66,7 @@ Built with ❤️ by [UWIT.rs](https://uwit.rs)
 We turn your ideas into reality.
 
 Special thanks to the open source community for Fabric.js, React, and all the tools that made this project possible.
-## 📜 License
 
-This project is **open source** and free to use under the [MIT License](LICENSE).
-You are free to use, modify, and distribute it — commercial and non-commercial.
+```
 
----
-
-## 🙌 Acknowledgements
-
-Built with ❤️ by [UWIT.rs](https://uwit.rs)
-We turn your ideas into reality.
-
-Special thanks to the open source community for Fabric.js, React, and all the tools that made this project possible.
 ```
